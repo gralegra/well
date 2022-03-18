@@ -1,0 +1,39 @@
+{
+	"storyName": "Longhead",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"among",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Ballistic",
+			"Squid",
+			[
+				0,
+				95,
+				255
+			]
+		],
+		[
+			"Mining (Copyrighted)",
+			"Stampy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "FUnny"
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "Longhead",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"stampy-menu",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Funland",
+			"Stampy",
+			[
+				255,
+				255,
+				95
+			]
+		],
+		[
+			"Pigstep",
+			"Squid",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Otherside",
+			"Leeeeee",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Coolswag Stamps"
+}
