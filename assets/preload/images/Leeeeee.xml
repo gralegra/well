@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Leeeeee.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Leeeeee0000" x="0" y="0" width="406" height="344" pivotX="-381.9" pivotY="-42.4"/>
+	<SubTexture name="Leeeeee0001" x="0" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0002" x="406" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0003" x="406" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0004" x="812" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0005" x="812" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0006" x="1218" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0007" x="1218" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0008" x="1624" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0009" x="1624" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0010" x="1624" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0011" x="1624" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0012" x="1624" y="0" width="406" height="344"/>
+	<SubTexture name="Leeeeee0013" x="1624" y="0" width="406" height="344"/>
+</TextureAtlas>

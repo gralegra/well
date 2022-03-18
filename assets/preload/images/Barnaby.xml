@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Barnaby.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Barnaby0000" x="0" y="0" width="272" height="191" pivotX="65.9" pivotY="-82.2"/>
+	<SubTexture name="Barnaby0001" x="0" y="0" width="272" height="191"/>
+	<SubTexture name="Barnaby0002" x="272" y="0" width="272" height="191"/>
+	<SubTexture name="Barnaby0003" x="272" y="0" width="272" height="191"/>
+	<SubTexture name="Barnaby0004" x="544" y="0" width="272" height="191"/>
+	<SubTexture name="Barnaby0005" x="544" y="0" width="272" height="191"/>
+	<SubTexture name="Barnaby0006" x="0" y="191" width="272" height="191"/>
+	<SubTexture name="Barnaby0007" x="0" y="191" width="272" height="191"/>
+	<SubTexture name="Barnaby0008" x="0" y="191" width="272" height="191"/>
+	<SubTexture name="Barnaby0009" x="0" y="191" width="272" height="191"/>
+	<SubTexture name="Barnaby0010" x="0" y="191" width="272" height="191"/>
+	<SubTexture name="Barnaby0011" x="0" y="191" width="272" height="191"/>
+	<SubTexture name="Barnaby0012" x="0" y="191" width="272" height="191"/>
+	<SubTexture name="Barnaby0013" x="0" y="191" width="272" height="191"/>
+</TextureAtlas>
