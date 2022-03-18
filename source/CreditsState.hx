@@ -64,7 +64,14 @@ class CreditsState extends MusicBeatState
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",				'https://twitter.com/ninja_muffin99',	'0xFFF73838'],
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",					'https://twitter.com/PhantomArcade3K',	'0xFFFFBB1B'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",					'https://twitter.com/evilsk8r',			'0xFF53E52C'],
-			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",					'https://twitter.com/kawaisprite',		'0xFF6475F3']
+			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",					'https://twitter.com/kawaisprite',		'0xFF6475F3'
+			['Team Plotsh'],
+			['Plotsh',		    'Plotsh',		    'Pessoa Legal',	 'https://youtube.com/c/Plotsh',	'0xFFC30085'],
+			['Moxie',		'Moxie',		'Idiota Total',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
+			['Caio',			'Caio',		'O Artista',				'',		'0xFFC30085'],
+			['Enzo',			'Enzo',		'O Dono Do Serve',				'https://discord.gg/436c6Emptn',		'0xFFC30085'],
+			['Pedro',			'Pedro',		'Amigo Muito Legal',				'',		'0xFFC30085'],
+			[''],
 		];
 		
 		for(i in pisspoop){
