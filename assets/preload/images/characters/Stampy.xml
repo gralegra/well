@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stampy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stampy Down0000" x="0" y="0" width="467" height="727" pivotX="-256.5" pivotY="12.7"/>
+	<SubTexture name="Stampy Down0001" x="0" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0002" x="467" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0003" x="467" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0004" x="934" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0005" x="934" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0006" x="1401" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0007" x="1868" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0008" x="2335" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0009" x="2335" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0010" x="2335" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0011" x="2335" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0012" x="2802" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Down0013" x="2802" y="0" width="467" height="727"/>
+	<SubTexture name="Stampy Idle0000" x="3269" y="0" width="470" height="765" pivotX="-200.35" pivotY="68.6"/>
+	<SubTexture name="Stampy Idle0001" x="3269" y="0" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0002" x="0" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0003" x="0" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0004" x="470" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0005" x="470" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0006" x="940" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0007" x="940" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0008" x="1410" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0009" x="1410" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0010" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0011" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0012" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle0013" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0000" x="2350" y="765" width="470" height="765" pivotX="-200.35" pivotY="68.6"/>
+	<SubTexture name="Stampy Idle-alt0001" x="2820" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0002" x="3290" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0003" x="3290" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0004" x="470" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0005" x="470" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0006" x="940" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0007" x="940" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0008" x="1410" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0009" x="1410" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0010" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0011" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0012" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Idle-alt0013" x="1880" y="765" width="470" height="765"/>
+	<SubTexture name="Stampy Left0000" x="0" y="1530" width="557" height="765" pivotX="-169.75" pivotY="68.6"/>
+	<SubTexture name="Stampy Left0001" x="0" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0002" x="557" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0003" x="557" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0004" x="1114" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0005" x="1114" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0006" x="1671" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0007" x="1671" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0008" x="2228" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0009" x="2228" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0010" x="2228" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0011" x="2228" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0012" x="2228" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Left0013" x="2228" y="1530" width="557" height="765"/>
+	<SubTexture name="Stampy Right0000" x="2785" y="1530" width="571" height="763" pivotX="-197.7" pivotY="68.6"/>
+	<SubTexture name="Stampy Right0001" x="2785" y="1530" width="571" height="763"/>
+	<SubTexture name="Stampy Right0002" x="3356" y="1530" width="571" height="763"/>
+	<SubTexture name="Stampy Right0003" x="3356" y="1530" width="571" height="763"/>
+	<SubTexture name="Stampy Right0004" x="0" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0005" x="0" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0006" x="571" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0007" x="571" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0008" x="1142" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0009" x="1142" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0010" x="1713" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0011" x="1713" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0012" x="1713" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Right0013" x="2284" y="2295" width="571" height="763"/>
+	<SubTexture name="Stampy Up0000" x="2855" y="2295" width="431" height="816" pivotX="-231.4" pivotY="99.95"/>
+	<SubTexture name="Stampy Up0001" x="2855" y="2295" width="431" height="816"/>
+	<SubTexture name="Stampy Up0002" x="3286" y="2295" width="431" height="816"/>
+	<SubTexture name="Stampy Up0003" x="3286" y="2295" width="431" height="816"/>
+	<SubTexture name="Stampy Up0004" x="0" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0005" x="0" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0006" x="431" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0007" x="431" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0008" x="862" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0009" x="862" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0010" x="1293" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0011" x="1293" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0012" x="1293" y="3111" width="431" height="816"/>
+	<SubTexture name="Stampy Up0013" x="1724" y="3111" width="431" height="816"/>
+</TextureAtlas>

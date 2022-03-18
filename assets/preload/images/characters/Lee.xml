@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lee.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lee Down0000" x="0" y="0" width="468" height="681" pivotX="-209.25" pivotY="286.4"/>
+	<SubTexture name="Lee Down0001" x="0" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0002" x="468" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0003" x="468" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0004" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0005" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0006" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0007" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0008" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0009" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0010" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0011" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0012" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Down0013" x="936" y="0" width="468" height="681"/>
+	<SubTexture name="Lee Idle0000" x="1404" y="0" width="495" height="714" pivotX="-148.05" pivotY="307.55"/>
+	<SubTexture name="Lee Idle0001" x="1404" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0002" x="1899" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0003" x="1899" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0004" x="2394" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0005" x="2394" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0006" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0007" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0008" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0009" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0010" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0011" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0012" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Idle0013" x="2889" y="0" width="495" height="714"/>
+	<SubTexture name="Lee Left0000" x="3384" y="0" width="471" height="707" pivotX="-109.05" pivotY="307.55"/>
+	<SubTexture name="Lee Left0001" x="3384" y="0" width="471" height="707"/>
+	<SubTexture name="Lee Left0002" x="0" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0003" x="0" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0004" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0005" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0006" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0007" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0008" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0009" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0010" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0011" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0012" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Left0013" x="471" y="714" width="471" height="707"/>
+	<SubTexture name="Lee Right0000" x="942" y="714" width="475" height="714" pivotX="-184.05" pivotY="307.55"/>
+	<SubTexture name="Lee Right0001" x="942" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0002" x="1417" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0003" x="1417" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0004" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0005" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0006" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0007" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0008" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0009" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0010" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0011" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0012" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Right0013" x="1892" y="714" width="475" height="714"/>
+	<SubTexture name="Lee Up0000" x="2367" y="714" width="466" height="786" pivotX="-148.05" pivotY="367.15"/>
+	<SubTexture name="Lee Up0001" x="2367" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0002" x="2833" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0003" x="2833" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0004" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0005" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0006" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0007" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0008" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0009" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0010" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0011" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0012" x="3299" y="714" width="466" height="786"/>
+	<SubTexture name="Lee Up0013" x="3299" y="714" width="466" height="786"/>
+</TextureAtlas>
