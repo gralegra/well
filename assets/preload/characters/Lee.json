@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lee Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lee Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Lee Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Lee Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Lee Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lee",
+	"position": [
+		-50,
+		-70
+	],
+	"healthicon": "Leeeeee",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		33,
+		51
+	],
+	"camera_position": [
+		100,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

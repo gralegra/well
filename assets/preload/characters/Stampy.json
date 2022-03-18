@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Stampy Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Stampy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Stampy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Stampy Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Stampy Idle-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Stampy Idle-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Stampy Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stampy",
+	"position": [
+		-50,
+		20
+	],
+	"healthicon": "Stampy",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		173,
+		51
+	],
+	"camera_position": [
+		100,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
